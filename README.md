@@ -1,5 +1,6 @@
-Mission Report
+#Mission Report
 Mission Objectives:
+
 •	Set out the Swarmies on an expedition to explore the surface of Mars and safely return to base while collecting samples along the way in preparation for more complex missions.
 •	Test the efficiency of the Swarmies by running them inside a virtual simulation on uneven and challenging terrain in order to make optimizations to the programming where necessary.
 Observations:
